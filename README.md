@@ -17,9 +17,13 @@ The diffusing update algorithm (DUAL) is the algorithm used by Cisco's EIGRP rou
 
 當路徑更改時，DUAL 會傳送更動的部分而非整個路由表，當路由器儲存鄰近路徑表，且路徑異動時，路由器可以快速反應（反應時間）。
 
+------------------------
+
 * Routing Loop, 路由迴圈
 
 A routing loop is a serious network problem which happens when a data packet is continually routed through the same routers over and over. The data packets continue to be routed within the network in an endless circle.
+
+------------------------
 
 * EIGRP has 4 functions:
 
@@ -30,6 +34,8 @@ A routing loop is a serious network problem which happens when a data packet is 
 - [x] choose routes.
 
 - [x] maintain routes.
+
+------------------------
 
 * EIGRP has 3 tables per router:
 
@@ -44,3 +50,5 @@ A routing loop is a serious network problem which happens when a data packet is 
 - [x] Topology Table, 拓樸表
 
      拓樸表記錄所有目的地的路徑。
+
+------------------------
