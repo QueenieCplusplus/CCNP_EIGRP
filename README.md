@@ -27,7 +27,7 @@ A routing loop is a serious network problem which happens when a data packet is 
 
 - [x] Routing Table, 路徑表
 
-     表單建立基礎是拓樸表。
+     表單建立基礎是拓樸表，記錄著到達目的地的最佳路徑稱為 Feasible Successor。
 
 - [x] Neighbor Table, 鄰近表
 
