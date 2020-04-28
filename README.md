@@ -27,6 +27,10 @@ A routing loop is a serious network problem which happens when a data packet is 
 
 - [x] Routing Table, 路徑表
 
+     表單建立基礎是拓樸表。
+
 - [x] Neighbor Table, 鄰近表
 
 - [x] Topology Table, 拓樸表
+
+     拓樸表記錄所有目的地的路徑。
