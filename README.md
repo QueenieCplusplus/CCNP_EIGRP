@@ -21,7 +21,7 @@ The diffusing update algorithm (DUAL) is the algorithm used by Cisco's EIGRP rou
 
 A routing loop is a serious network problem which happens when a data packet is continually routed through the same routers over and over. The data packets continue to be routed within the network in an endless circle.
 
-* EIGRP
+* EIGRP has 4 functions:
 
 - [x] build the neighbor table.
 
@@ -30,6 +30,8 @@ A routing loop is a serious network problem which happens when a data packet is 
 - [x] choose routes.
 
 - [x] maintain routes.
+
+* EIGRP has 3 tables per router:
 
 在此網路中，每台路由器都需要維護：
 
