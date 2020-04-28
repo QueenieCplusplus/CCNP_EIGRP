@@ -20,3 +20,13 @@ The diffusing update algorithm (DUAL) is the algorithm used by Cisco's EIGRP rou
 * Routing Loop, 路由迴圈
 
 A routing loop is a serious network problem which happens when a data packet is continually routed through the same routers over and over. The data packets continue to be routed within the network in an endless circle.
+
+* EIGRP
+
+在此網路中，每台路由器都需要維護：
+
+- [x] Routing Table, 路徑表
+
+- [x] Neighbor Table, 鄰近表
+
+- [x] Topology Table, 拓樸表
