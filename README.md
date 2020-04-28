@@ -23,6 +23,14 @@ A routing loop is a serious network problem which happens when a data packet is 
 
 * EIGRP
 
+- [x] build the neighbor table.
+
+- [x] discover routes.
+
+- [x] choose routes.
+
+- [x] maintain routes.
+
 在此網路中，每台路由器都需要維護：
 
 - [x] Routing Table, 路徑表
