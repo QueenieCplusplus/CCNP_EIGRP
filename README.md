@@ -2,6 +2,8 @@
 
 https://github.com/QueenieCplusplus/Static_and_Dynamic (see dynamic routing for private IP)
 
+https://github.com/QueenieCplusplus/Interior_and_Exterior (see interior)
+
 RIP ＆ EIGRP 
 
 https://github.com/QueenieCplusplus/RIP
