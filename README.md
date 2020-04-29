@@ -36,6 +36,8 @@ A routing loop is a serious network problem which happens when a data packet is 
 
 - [x] discover routes.
 
+https://github.com/QueenieCplusplus/ND (IPv6) 
+
 - [x] choose routes.
 
 - [x] maintain routes.
@@ -58,4 +60,4 @@ A routing loop is a serious network problem which happens when a data packet is 
 
 ------------------------
 
-https://github.com/QueenieCplusplus/ND (IPv6) 
+
