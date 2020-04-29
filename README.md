@@ -1,5 +1,7 @@
 # CCNP EIGRP
 
+https://github.com/QueenieCplusplus/Static_and_Dynamic (see dynamic routing for private IP)
+
 RIP ＆ EIGRP 
 
 https://github.com/QueenieCplusplus/RIP
